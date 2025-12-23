@@ -25,5 +25,3 @@ Program Python sederhana untuk **mengirim email otomatis menggunakan SMTP**, dil
 * `email.message`
 
 (Tidak menggunakan library eksternal)
-email["F
-```
